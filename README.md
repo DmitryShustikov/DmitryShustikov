@@ -5,6 +5,7 @@
 - 📫 Мой тлг ShusTikoff
 - 😄 Активный образ жизни
 - ⚡ Fun fact: уже дед
+  ✨ Люблю Жизнь!!!
 
 <!---
 DmitryShustikov/DmitryShustikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
